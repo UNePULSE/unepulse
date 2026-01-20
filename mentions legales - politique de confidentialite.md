@@ -1,5 +1,5 @@
 ---
 title: "Mentions légales & Politique de confidentialité"
-order: 7
+order: 6
 in_menu: true
 ---
