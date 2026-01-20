@@ -3,6 +3,6 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-# L'Échappée Belle
+# UNePULSE
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+UNePULSE est **une petite entreprise** qui a pour objet de**développer vos projets de formation**, de **donner vie à vos documents en lien avec des formations**, de vous **conseiller dans l'élaboration et l'architecture idéale d'un logiciel** à destination de votre personnel. 
